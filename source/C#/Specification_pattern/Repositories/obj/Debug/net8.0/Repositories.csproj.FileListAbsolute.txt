@@ -1,0 +1,15 @@
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\bin\Debug\net8.0\Repositories.deps.json
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\bin\Debug\net8.0\Repositories.dll
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\bin\Debug\net8.0\Repositories.pdb
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.AssemblyInfo.cs
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.dll
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\refint\Repositories.dll
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.pdb
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\ref\Repositories.dll
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\bin\Debug\net8.0\Data.dll
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\bin\Debug\net8.0\Data.pdb
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\Dheeraj\source\C#\Specification_pattern\Repositories\obj\Debug\net8.0\Repositories.csproj.CopyComplete

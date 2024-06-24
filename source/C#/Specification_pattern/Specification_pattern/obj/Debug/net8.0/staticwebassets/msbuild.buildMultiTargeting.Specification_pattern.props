@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Specification_pattern.props" />
+</Project>
